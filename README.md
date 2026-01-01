@@ -39,7 +39,3 @@ Good AI interviews test:
 - **Trade-off awareness** - Do you understand costs and benefits?
 - **Practical judgment** - Can you make decisions with incomplete information?
 - **Communication** - Can you explain complex ideas clearly?
-
----
-
-*Each folder contains 1-2 representative questions with detailed, interview-style answers.*
